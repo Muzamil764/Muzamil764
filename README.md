@@ -1,4 +1,29 @@
 ## Hi there 👋
+# Hi 👋 I'm Muzamil
+
+💻 Backend Developer | PHP & Laravel
+
+## 🚀 About Me
+- Backend developer specializing in Laravel
+- I build REST APIs and backend systems
+- Passionate about clean code and scalable architecture
+
+## 🛠 Tech Stack
+- PHP
+- Laravel
+- MySQL
+- REST API Development
+- Git & GitHub
+- JavaScript
+
+## 📂 Projects
+- Laravel REST API
+- Blog CMS
+- Authentication System
+- E-commerce Backend
+
+
+Email: muzamilnaveed764@gmail.com
 
 <!--
 **Muzamil764/Muzamil764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
